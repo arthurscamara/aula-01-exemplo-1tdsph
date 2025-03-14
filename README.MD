@@ -1,10 +1,8 @@
-<<<<<<< .merge_file_aFuylk
+**teste de conflito**
 #XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-=======
 # YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
- 
->>>>>>> .merge_file_LAne8r
+**teste de conflito** 
+
 Olá, mundo! 👋
  
 Este é o meu primeiro repositório no GitHub. Estou começando minha jornada no mundo da programação e este repositório servirá para praticar, aprender e compartilhar meu progresso.
