@@ -30,10 +30,4 @@ Meu objetivo é me tornar um desenvolvedor web e criar projetos incríveis no fu
  
 Se quiser trocar uma ideia ou compartilhar dicas, me avise! 😊
  
----
- 
 **Obrigado por visitar meu repositório!** ✨
-<<<<<<< .merge_file_aFuylk
-
-=======
->>>>>>> .merge_file_LAne8r
